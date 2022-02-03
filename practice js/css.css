@@ -1,0 +1,13 @@
+body{
+  background-color: #6e6a6a;
+}
+
+span, form{
+  text-align: center;
+  padding-top: 200px;
+
+}
+p{
+  text-align: center;
+  padding-top: 0px;
+}
